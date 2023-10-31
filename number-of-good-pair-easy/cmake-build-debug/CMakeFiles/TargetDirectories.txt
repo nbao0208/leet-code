@@ -1,0 +1,3 @@
+/Users/baonguyen/DEV/leet-code/number-of-good-pair-easy/cmake-build-debug/CMakeFiles/number_of_good_pair_easy.dir
+/Users/baonguyen/DEV/leet-code/number-of-good-pair-easy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/baonguyen/DEV/leet-code/number-of-good-pair-easy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
