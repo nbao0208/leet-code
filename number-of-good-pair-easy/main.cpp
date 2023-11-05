@@ -4,21 +4,9 @@
 
 using namespace std;
 
-int factorial(int n) {
-    if (n == 0) {
-        return 1;
-    } else {
-        int result = 1;
-        while (n > 0) {
-            result *= n;
-            n--;
-        }
-        return result;
-    }
-}
 
 int combinationOfTwo(int number) {
-    return (factorial(number)) / (2 * factorial(number - 2));
+    0.5 * number * (number - 1);
 }
 
 //void addEle(vector<int> &num) {
@@ -39,6 +27,7 @@ int combinationOfTwo(int number) {
 int main() {
     vector<int> nums;
 //    addEle(nums);
+
     sort(nums.begin(), nums.end());
     nums.push_back(NULL);
     vector<int> indexOfTheLastSimilarElement;
@@ -48,7 +37,7 @@ int main() {
         }
     }
     int count = 0;
-    if (!(nums.size() <= 1)) {
+    if (nums.size() > 1) {
         for (int i = 0; i < indexOfTheLastSimilarElement.size(); i++) {
             if (i == 0) {
                 count += combinationOfTwo(indexOfTheLastSimilarElement[i]);
