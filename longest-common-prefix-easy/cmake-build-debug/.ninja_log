@@ -1,0 +1,5 @@
+# ninja log v5
+0	1312	1699716948974108960	CMakeFiles/longest_common_prefix_easy.dir/main.cpp.o	5d10f755ce521387
+1318	1416	1699716949083044615	longest_common_prefix_easy	a175a8203dd466ec
+5	1160	1699717006570654888	CMakeFiles/longest_common_prefix_easy.dir/main.cpp.o	5d10f755ce521387
+1161	1258	1699717006673108968	longest_common_prefix_easy	a175a8203dd466ec

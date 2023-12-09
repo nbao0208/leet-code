@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Valid_Parentheses_easy_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Valid_Parentheses_easy_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Valid_Parentheses_easy_-Debug-936c5eab923ebfc253c7.json",
+					"name" : "Valid_Parentheses_easy_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/baonguyen/DEV/leet-code/Valid-Parentheses-easy /cmake-build-debug",
+		"source" : "/Users/baonguyen/DEV/leet-code/Valid-Parentheses-easy "
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

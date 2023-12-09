@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Remove_Duplicates_from_Sorted_Array",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Remove_Duplicates_from_Sorted_Array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Remove_Duplicates_from_Sorted_Array-Debug-53b993375534e8f2bdcb.json",
+					"name" : "Remove_Duplicates_from_Sorted_Array",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/baonguyen/DEV/leet-code/Remove-Duplicates-from-Sorted-Array/cmake-build-debug",
+		"source" : "/Users/baonguyen/DEV/leet-code/Remove-Duplicates-from-Sorted-Array"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

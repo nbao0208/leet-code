@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(Remove_Duplicates_from_Sorted_List_easy)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Remove_Duplicates_from_Sorted_List_easy main.cpp)
