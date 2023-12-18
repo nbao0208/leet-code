@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Convert_Sorted_Array_to_Binary_Search_Tree_easy",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Convert_Sorted_Array_to_Binary_Search_Tree_easy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Convert_Sorted_Array_to_Binary_Search_Tree_easy-Debug-cbe6e1f3d194749d78b3.json",
+					"name" : "Convert_Sorted_Array_to_Binary_Search_Tree_easy",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/leetcode/Convert-Sorted-Array-to-Binary-Search-Tree-easy/cmake-build-debug",
+		"source" : "D:/leetcode/Convert-Sorted-Array-to-Binary-Search-Tree-easy"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
