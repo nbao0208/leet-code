@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Binary_Tree_Inorder_Traversal_easy",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Binary_Tree_Inorder_Traversal_easy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Binary_Tree_Inorder_Traversal_easy-Debug-ce6f6a6bc0ba397c2028.json",
+					"name" : "Binary_Tree_Inorder_Traversal_easy",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/baonguyen/DEV/leet-code/Binary-Tree-Inorder-Traversal-easy/cmake-build-debug",
+		"source" : "/Users/baonguyen/DEV/leet-code/Binary-Tree-Inorder-Traversal-easy"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
